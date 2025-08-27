@@ -4,7 +4,7 @@ class Solution {
         x = Math.abs(x);
         while (x != 0) {
             int digit = x % 10;
-            if (rev > (Integer.MAX_VALUE - digit) / 10) return 0; // overflow check
+            if (rev > (Integer.MAX_VALUE - digit) / 10) return 0; 
             rev = rev * 10 + digit;
             x /= 10;
         }
