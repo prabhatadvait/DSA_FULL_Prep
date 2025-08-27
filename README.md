@@ -25,8 +25,13 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
