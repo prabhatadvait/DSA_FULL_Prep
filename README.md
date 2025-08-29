@@ -37,6 +37,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -46,4 +47,12 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
