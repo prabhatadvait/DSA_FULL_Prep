@@ -27,10 +27,12 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 ## Sliding Window
@@ -67,6 +69,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0040-combination-sum-ii) |
