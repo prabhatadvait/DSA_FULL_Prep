@@ -31,6 +31,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -44,6 +45,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -57,4 +59,8 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
