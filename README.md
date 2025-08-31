@@ -15,12 +15,14 @@ leetcode,GeeksforGeeks and HackerRank
 | [0009-palindrome-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
