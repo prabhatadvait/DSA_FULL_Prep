@@ -59,6 +59,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0040-combination-sum-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0216-combination-sum-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0040-combination-sum-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
