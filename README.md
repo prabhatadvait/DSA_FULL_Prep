@@ -48,6 +48,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0090-subsets-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
