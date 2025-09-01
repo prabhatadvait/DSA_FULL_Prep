@@ -44,6 +44,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
