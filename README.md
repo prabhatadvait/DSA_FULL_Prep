@@ -33,6 +33,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## String
@@ -43,6 +44,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0022-generate-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
+| [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
@@ -57,6 +59,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
+| [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +95,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
 |  |
