@@ -1,6 +1,7 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
         d = {0: -1}   # prefix_sum -> first index
+        ## here d :-> sum,index
         count = 0
         max_len = 0
 
