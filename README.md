@@ -82,6 +82,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 ## Sorting
 |  |
