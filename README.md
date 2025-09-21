@@ -15,6 +15,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0009-palindrome-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
@@ -94,6 +95,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0136-single-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
@@ -173,6 +175,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Prefix Sum
 |  |
@@ -186,4 +189,8 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
