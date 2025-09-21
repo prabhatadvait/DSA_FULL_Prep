@@ -51,6 +51,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -137,11 +139,13 @@ leetcode,GeeksforGeeks and HackerRank
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
@@ -159,4 +163,12 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
+## Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
