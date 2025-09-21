@@ -63,6 +63,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
@@ -89,6 +90,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0040-combination-sum-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0090-subsets-ii) |
@@ -137,6 +139,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
