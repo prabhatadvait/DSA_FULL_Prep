@@ -196,5 +196,6 @@ leetcode,GeeksforGeeks and HackerRank
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
