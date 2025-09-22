@@ -34,6 +34,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
@@ -96,6 +97,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0090-subsets-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0216-combination-sum-iii) |
@@ -141,6 +143,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
@@ -202,4 +205,12 @@ leetcode,GeeksforGeeks and HackerRank
 | [0584-find-customer-referee](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
