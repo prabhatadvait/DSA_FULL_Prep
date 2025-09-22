@@ -75,6 +75,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -91,6 +92,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0040-combination-sum-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
@@ -208,6 +210,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 ## Counting
 |  |
