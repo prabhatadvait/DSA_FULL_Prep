@@ -127,6 +127,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
@@ -181,6 +182,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 ## Design
 |  |
@@ -197,6 +199,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 ## Matrix
@@ -244,6 +247,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0053-maximum-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -254,4 +258,16 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
