@@ -88,6 +88,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0118-pascals-triangle](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -119,6 +120,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
