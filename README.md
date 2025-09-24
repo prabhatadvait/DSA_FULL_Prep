@@ -101,6 +101,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0048-rotate-image](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
@@ -187,6 +188,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0073-set-matrix-zeroes) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## Geometry
@@ -233,5 +235,6 @@ leetcode,GeeksforGeeks and HackerRank
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
