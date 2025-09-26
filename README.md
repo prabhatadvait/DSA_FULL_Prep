@@ -89,6 +89,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -129,6 +130,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
@@ -186,6 +188,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 ## Design
