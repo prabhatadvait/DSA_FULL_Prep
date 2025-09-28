@@ -37,6 +37,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0049-group-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0812-rotate-string) |
