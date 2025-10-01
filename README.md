@@ -22,6 +22,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -271,6 +272,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
