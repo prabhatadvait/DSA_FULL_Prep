@@ -4,8 +4,8 @@ class Solution:
         empty = numBottles
 
         while empty>=numExchange:
+            ans+=1
             empty = empty-numExchange
             numExchange+=1
-            ans +=1
             empty +=1
         return ans
