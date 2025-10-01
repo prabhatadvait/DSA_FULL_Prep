@@ -10,3 +10,4 @@ class Solution:
             else:
                 curr_length = 1
         return max_length
+        
