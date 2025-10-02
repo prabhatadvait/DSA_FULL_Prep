@@ -7,6 +7,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +218,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
@@ -274,6 +276,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
@@ -302,6 +305,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 ## String Matching
 |  |
