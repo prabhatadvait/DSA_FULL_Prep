@@ -44,6 +44,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0485-max-consecutive-ones) |
@@ -198,6 +200,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -220,6 +223,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -280,12 +284,14 @@ leetcode,GeeksforGeeks and HackerRank
 | [0053-maximum-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Simulation
 |  |
@@ -315,4 +321,9 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
