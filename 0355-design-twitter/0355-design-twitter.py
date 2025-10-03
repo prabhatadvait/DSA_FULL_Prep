@@ -34,7 +34,6 @@ class Twitter:
         if followeeId in self.following[followerId]:
             self.following[followerId].remove(followeeId)
 
-
 # Your Twitter object will be instantiated and called as such:
 # obj = Twitter()
 # obj.postTweet(userId,tweetId)
