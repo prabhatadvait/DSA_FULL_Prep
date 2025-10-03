@@ -92,6 +92,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
@@ -209,6 +210,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
@@ -227,6 +229,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
@@ -235,6 +238,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -347,4 +351,8 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0407-trapping-rain-water-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
