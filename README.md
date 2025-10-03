@@ -8,6 +8,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
@@ -225,6 +227,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
@@ -233,6 +236,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
