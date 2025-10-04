@@ -168,6 +168,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## Greedy
@@ -220,6 +221,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search
 |  |
@@ -252,6 +254,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
+| [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -327,6 +330,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
 ## Binary Indexed Tree
 |  |
