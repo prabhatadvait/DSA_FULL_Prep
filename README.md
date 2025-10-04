@@ -19,6 +19,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0050-powx-n](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
@@ -293,6 +294,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
 ## Database
 |  |
 | ------- |
@@ -322,6 +324,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
