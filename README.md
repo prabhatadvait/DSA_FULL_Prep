@@ -26,6 +26,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2752-sum-multiples) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
 ## Recursion
