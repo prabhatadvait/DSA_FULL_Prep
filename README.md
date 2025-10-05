@@ -22,6 +22,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -211,6 +212,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0136-single-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
