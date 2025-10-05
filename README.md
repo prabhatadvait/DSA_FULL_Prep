@@ -24,6 +24,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
 ## Recursion
