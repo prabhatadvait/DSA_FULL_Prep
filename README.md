@@ -25,6 +25,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
 ## Recursion
@@ -175,6 +176,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
