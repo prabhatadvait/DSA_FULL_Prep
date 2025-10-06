@@ -140,6 +140,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
@@ -240,6 +241,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -281,6 +283,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0048-rotate-image](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
