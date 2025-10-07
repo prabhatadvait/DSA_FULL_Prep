@@ -59,6 +59,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
@@ -177,6 +178,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1677-matrix-diagonal-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -196,6 +198,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
+| [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Backtracking
@@ -253,6 +256,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Design
 |  |
@@ -275,6 +279,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
