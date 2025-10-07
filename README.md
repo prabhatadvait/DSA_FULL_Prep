@@ -169,6 +169,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -292,6 +293,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0407-trapping-rain-water-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## Geometry
@@ -351,6 +353,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0054-spiral-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0566-reshape-the-matrix) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
