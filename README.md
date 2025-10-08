@@ -174,6 +174,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0777-toeplitz-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -301,6 +302,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [1677-matrix-diagonal-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1791-richest-customer-wealth) |
