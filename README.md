@@ -193,6 +193,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2876-number-of-employees-who-met-the-target](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## Greedy
@@ -326,6 +327,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Queue
 |  |
