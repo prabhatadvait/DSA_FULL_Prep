@@ -103,6 +103,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
@@ -165,6 +166,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
@@ -233,6 +235,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0136-single-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0287-find-the-duplicate-number) |
 | [1610-xor-operation-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -266,6 +269,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0074-search-a-2d-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
