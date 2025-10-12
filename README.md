@@ -30,6 +30,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2752-sum-multiples](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2752-sum-multiples) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +126,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -206,6 +208,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +241,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0287-find-the-duplicate-number) |
 | [1610-xor-operation-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1610-xor-operation-in-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -449,4 +453,12 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
