@@ -218,6 +218,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -233,6 +234,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,6 +285,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
 |  |
 | ------- |
