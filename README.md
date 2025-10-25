@@ -24,6 +24,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2608-count-the-digits-that-divide-a-number) |
