@@ -325,6 +325,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
@@ -517,4 +518,5 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
