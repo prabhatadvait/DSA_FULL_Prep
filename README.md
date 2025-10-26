@@ -9,6 +9,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
+| [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
+| [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -207,6 +209,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0777-toeplitz-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
+| [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -329,6 +332,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
+| [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 | [2169-simple-bank-system](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
@@ -519,4 +523,8 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
