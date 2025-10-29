@@ -34,6 +34,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2752-sum-multiples](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2752-sum-multiples) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
@@ -276,6 +277,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0287-find-the-duplicate-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0287-find-the-duplicate-number) |
 | [1610-xor-operation-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1610-xor-operation-in-an-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
