@@ -98,6 +98,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0812-rotate-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
