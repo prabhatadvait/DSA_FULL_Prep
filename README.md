@@ -243,6 +243,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -271,6 +272,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Backtracking
 |  |
