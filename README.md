@@ -85,6 +85,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -261,6 +262,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
 | ------- |
@@ -382,12 +384,14 @@ leetcode,GeeksforGeeks and HackerRank
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -518,6 +522,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## Data Stream
 |  |
 | ------- |
@@ -530,14 +535,17 @@ leetcode,GeeksforGeeks and HackerRank
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
+| [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
