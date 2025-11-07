@@ -8,6 +8,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0061-rotate-list) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -132,6 +133,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0018-4sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0125-valid-palindrome) |
