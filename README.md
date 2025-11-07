@@ -66,6 +66,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
@@ -218,6 +219,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0566-reshape-the-matrix) |
@@ -563,6 +565,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Function
 |  |
@@ -571,5 +574,6 @@ leetcode,GeeksforGeeks and HackerRank
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
