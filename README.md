@@ -9,6 +9,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0838-design-linked-list) |
