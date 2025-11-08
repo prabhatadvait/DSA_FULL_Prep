@@ -9,6 +9,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
@@ -49,6 +50,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 ## Hash Table
