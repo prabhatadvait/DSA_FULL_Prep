@@ -11,6 +11,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0061-rotate-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0061-rotate-list) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0838-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -365,6 +366,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0303-range-sum-query-immutable](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0838-design-linked-list) |
 | [2169-simple-bank-system](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
