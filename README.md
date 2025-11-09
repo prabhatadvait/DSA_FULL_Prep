@@ -12,6 +12,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0141-linked-list-cycle](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
@@ -53,6 +54,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2050-count-good-numbers) |
 ## Hash Table
@@ -151,6 +153,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0142-linked-list-cycle-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0295-find-median-from-data-stream) |
@@ -578,6 +581,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Function
