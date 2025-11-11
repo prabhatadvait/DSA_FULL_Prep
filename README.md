@@ -115,6 +115,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0205-isomorphic-strings](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0409-longest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
@@ -177,6 +178,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -234,6 +236,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
