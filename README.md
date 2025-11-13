@@ -42,6 +42,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2752-sum-multiples](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2752-sum-multiples) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3336-water-bottles-ii) |
@@ -269,6 +270,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
@@ -471,6 +473,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
