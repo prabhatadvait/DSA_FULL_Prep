@@ -20,6 +20,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -167,6 +168,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2392-successful-pairs-of-spells-and-potions) |
