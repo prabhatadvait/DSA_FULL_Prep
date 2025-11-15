@@ -7,6 +7,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0141-linked-list-cycle) |
@@ -147,6 +148,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0061-rotate-list) |
