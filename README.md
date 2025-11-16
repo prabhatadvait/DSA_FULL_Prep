@@ -120,6 +120,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -308,6 +309,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
@@ -611,6 +613,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0084-largest-rectangle-in-histogram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -624,6 +627,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
