@@ -250,6 +250,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0485-max-consecutive-ones](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0566-reshape-the-matrix) |
@@ -605,6 +606,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Function
@@ -615,6 +617,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
