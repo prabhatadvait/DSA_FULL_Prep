@@ -97,6 +97,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2169-simple-bank-system) |
@@ -134,6 +135,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0812-rotate-string](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0812-rotate-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -151,6 +153,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0966-binary-subarrays-with-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
