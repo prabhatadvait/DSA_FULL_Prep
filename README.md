@@ -37,6 +37,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -95,6 +96,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0966-binary-subarrays-with-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2169-simple-bank-system) |
@@ -148,6 +150,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -277,6 +280,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1046-max-consecutive-ones-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
@@ -486,6 +490,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
