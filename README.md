@@ -83,6 +83,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
@@ -122,6 +123,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0742-to-lower-case) |
@@ -141,6 +143,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
