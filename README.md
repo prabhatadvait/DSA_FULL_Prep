@@ -604,6 +604,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
@@ -637,6 +638,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0084-largest-rectangle-in-histogram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0402-remove-k-digits) |
@@ -663,9 +665,11 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
