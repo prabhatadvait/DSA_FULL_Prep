@@ -602,6 +602,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
@@ -633,6 +634,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0020-valid-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0402-remove-k-digits) |
@@ -654,4 +656,12 @@ leetcode,GeeksforGeeks and HackerRank
 | [0503-next-greater-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
