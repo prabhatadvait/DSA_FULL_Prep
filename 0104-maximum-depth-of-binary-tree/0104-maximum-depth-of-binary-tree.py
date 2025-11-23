@@ -21,6 +21,9 @@ class Solution:
         q = deque([root])
         depth = 0
         while q:
+            # Even if you add children inside the inner loop,
+            # they do NOT increase the number of iterations of this for-loop.
+            # Because Python evaluates range(len(q)) only once at the start.
             for _ in range(len(q)):
                 node = q.popleft()
                 if node.left:
