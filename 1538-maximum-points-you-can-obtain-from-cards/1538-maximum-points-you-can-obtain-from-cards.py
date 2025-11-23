@@ -11,3 +11,5 @@ class Solution:
             rightIndex-=1
             max_score = max(max_score,lsum+rsum)
         return max_score
+
+        
