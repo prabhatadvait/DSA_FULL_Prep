@@ -601,6 +601,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
@@ -634,6 +635,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0020-valid-parentheses](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0234-palindrome-linked-list) |
@@ -659,9 +661,11 @@ leetcode,GeeksforGeeks and HackerRank
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
