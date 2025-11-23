@@ -206,6 +206,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -284,6 +285,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
@@ -331,6 +333,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0621-task-scheduler](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -388,6 +391,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3226-minimum-number-game](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3226-minimum-number-game) |
