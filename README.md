@@ -142,6 +142,7 @@ leetcode,GeeksforGeeks and HackerRank
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -268,6 +269,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -473,6 +475,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0303-range-sum-query-immutable](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
