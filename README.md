@@ -614,6 +614,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3863-power-grid-maintenance) |
@@ -675,6 +676,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -683,4 +685,5 @@ leetcode,GeeksforGeeks and HackerRank
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
