@@ -592,6 +592,7 @@ leetcode,GeeksforGeeks and HackerRank
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0407-trapping-rain-water-ii) |
@@ -608,6 +609,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -674,6 +676,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -684,6 +687,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
