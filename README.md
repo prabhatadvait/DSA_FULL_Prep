@@ -611,6 +611,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
@@ -680,6 +681,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -693,6 +695,7 @@ leetcode,GeeksforGeeks and HackerRank
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -702,4 +705,8 @@ leetcode,GeeksforGeeks and HackerRank
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
