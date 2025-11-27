@@ -596,6 +596,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
@@ -615,6 +616,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0100-same-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
@@ -686,6 +688,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -700,6 +703,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0145-binary-tree-postorder-traversal) |
