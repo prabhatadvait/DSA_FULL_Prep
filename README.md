@@ -278,6 +278,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0777-toeplitz-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0876-hand-of-straights) |
@@ -413,6 +414,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1612-avoid-flood-in-the-city) |
