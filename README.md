@@ -299,6 +299,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [1791-richest-customer-wealth](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1917-maximum-average-pass-ratio) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2169-simple-bank-system) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -482,6 +483,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0794-swim-in-rising-water](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0794-swim-in-rising-water) |
 | [1677-matrix-diagonal-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/3797-design-spreadsheet) |
 ## Geometry
@@ -559,6 +561,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0258-add-digits](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0566-reshape-the-matrix) |
 | [1642-water-bottles](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1642-water-bottles) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
