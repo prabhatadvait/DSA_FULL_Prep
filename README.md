@@ -78,6 +78,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0160-intersection-of-two-linked-lists](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
@@ -254,6 +255,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0204-count-primes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0283-move-zeroes) |
@@ -383,6 +385,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0148-sort-list](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0268-missing-number) |
