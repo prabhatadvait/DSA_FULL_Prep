@@ -3,6 +3,6 @@ class Solution:
         from collections import Counter
         freq = Counter(nums)
         for i in freq.values():
-            if i > 1:
+            if i>1:
                 return True
         return False
