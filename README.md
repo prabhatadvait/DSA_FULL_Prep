@@ -206,6 +206,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0131-palindrome-partitioning](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -266,6 +267,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0347-top-k-frequent-elements](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0463-island-perimeter) |
