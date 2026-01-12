@@ -209,6 +209,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0416-partition-equal-subset-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1013-fibonacci-number) |
+| [1130-last-stone-weight-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1130-last-stone-weight-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -290,6 +291,7 @@ leetcode,GeeksforGeeks and HackerRank
 | [0966-binary-subarrays-with-sum](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1130-last-stone-weight-ii](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1130-last-stone-weight-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/prabhatadvait/DSA_FULL_Prep/tree/master/1388-greatest-sum-divisible-by-three) |
